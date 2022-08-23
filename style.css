@@ -1,0 +1,131 @@
+h1 {
+    font-size: 50px;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.flexible-container {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+
+
+
+}
+
+.half-width {
+
+    width: 50%;
+    padding-top: 120px;
+    color: aliceblue;
+
+}
+
+.background-banner {
+    background-image: url(./images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 650px;
+
+
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: rgb(231, 90, 39);
+    background-image: linear-gradient(orange tomato);
+    color: white;
+    padding: 10px 40px;
+    border-radius: 5px;
+
+}
+
+.width-size {
+    width: 5%;
+
+    margin-right: 5%;
+    padding: 20px;
+    border-radius: 15px;
+    background-color: gainsboro;
+    box-shadow: 10px 10px 5px ghostwhite;
+
+}
+
+.money-container {
+    text-align: center;
+    justify-content: center;
+    padding-top: 10%;
+}
+
+.money-color {
+    background-color: rgb(213, 156, 167);
+    color: crimson;
+    border: 5px solid crimson;
+}
+
+.other-amount {
+    box-shadow: 10px 10px 10px white;
+    padding-top: 20px;
+    margin-left: 30%;
+    background-color: white;
+    width: 500px;
+    border-bottom: 3px solid rgb(203, 190, 190);
+    color: rgb(176, 163, 163);
+
+}
+
+.donate-item {
+    width: 500px;
+    height: 40%;
+    text-align: left;
+    margin: 2%;
+    padding: 5px;
+    border-radius: 15px;
+    background-color: gainsboro;
+    box-shadow: 40px 40px 5px ghostwhite;
+    padding-top: 2%;
+}
+
+h2 {
+    text-align: left;
+}
+
+.food-bg-color {
+    background-color: rgb(226, 173, 173);
+}
+
+.shelter-bg-color {
+    background-color: rgb(159, 209, 240);
+}
+
+.edu-bg-color {
+    background-color: blanchedalmond;
+}
+
+.food-counter {
+    width: 100%;
+    padding: 5%;
+
+}
+
+.food-counter img {
+    width: 100%;
+
+}
+
+footer {
+    background-color: black;
+    background-size: cover;
+    justify-content: center;
+    text-align: center;
+    color: aliceblue;
+}
+
+
+.set-color {
+    color: darkgoldenrod;
+    font-size: 30px;
+}
